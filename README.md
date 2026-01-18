@@ -22,6 +22,7 @@ This project analyzes US e commerce sales data for the year 2020 to evaluate ove
 The objective of the project is to understand why the business recorded losses despite generating strong sales and to provide data driven insights that support better decision making.
 
 ## Dataset used
+https://github.com/Favour1408/US-E-COMMERCE-SALES-PERFORMANCE-ANALYSIS-2020/blob/main/US%20%20E-commerce%20records%202020.xlsx
 
 
 ## Problem Statement
