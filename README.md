@@ -36,7 +36,7 @@ This analysis seeks to answer the following business questions:
 * How shipping methods affected operational costs
 * Which customer segments were profitable or unprofitable
 * Which regions contributed positively or negatively to profit
-
+* Dashboard interactivity - <a href="https://github.com/Favour1408/US-E-COMMERCE-SALES-PERFORMANCE-ANALYSIS-2020/blob/main/US%20%20E-commerce%20records%202020.xlsx">Dashboard</a>
 ---
 
 ## Dataset Overview
