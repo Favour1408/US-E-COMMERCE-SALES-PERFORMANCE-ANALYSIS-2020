@@ -21,7 +21,8 @@ This project analyzes US e commerce sales data for the year 2020 to evaluate ove
 ## Project Objective
 The objective of the project is to understand why the business recorded losses despite generating strong sales and to provide data driven insights that support better decision making.
 
-##Dataset used
+## Dataset used
+
 
 ## Problem Statement
 
