@@ -7,6 +7,7 @@
 - [Dataset Overview](#dataset-overview)
 - [Data Preparation and Cleaning](#data-preparation-and-cleaning)
 - [Dashboard Interactivity](#dashboard-interactivity)
+- [Dashboard preview](#dashboard-preview)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 
@@ -93,7 +94,7 @@ The dashboard includes:
 
 This interactivity allows users to quickly identify trends, performance gaps, and problem areas across different business dimensions.
 
----
+## Dashboard Preview
 
 ## Insights
 
