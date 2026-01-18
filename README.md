@@ -98,6 +98,8 @@ The dashboard includes:
 This interactivity allows users to quickly identify trends, performance gaps, and problem areas across different business dimensions.
 
 ## Dashboard Preview
+![Screenshot 2026-01-10 060747](https://github.com/user-attachments/assets/78949ac4-0e33-444e-bcb1-ab1c876b3bbe)
+
 
 ## Insights
 
