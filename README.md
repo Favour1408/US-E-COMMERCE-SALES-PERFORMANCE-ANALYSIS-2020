@@ -2,6 +2,7 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Project objective](#project-objective)
 - [Problem Statement](#problem-statement)
 - [Dataset Overview](#dataset-overview)
 - [Data Preparation and Cleaning](#data-preparation-and-cleaning)
@@ -15,6 +16,7 @@
 
 This project analyzes US e commerce sales data for the year 2020 to evaluate overall business performance. The analysis focuses on sales trends, profit behavior, customer segments, shipping methods, and regional performance.
 
+## Project Objective
 The objective of the project is to understand why the business recorded losses despite generating strong sales and to provide data driven insights that support better decision making.
 
 ---
